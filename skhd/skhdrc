@@ -2,7 +2,7 @@
 #alt - return : "${HOME}"/.config/yabai/scripts/open_iterm2.sh
 
 # opens kitty
-cmd - return : /Applications/kitty.app/Contents/MacOS/kitty --single-instance -d ~
+alt - return : /Applications/kitty.app/Contents/MacOS/kitty --single-instance -d ~
 
 # Show system statistics
 #fn + lalt - 1 : "${HOME}"/.config/yabai/scripts/show_cpu.sh
